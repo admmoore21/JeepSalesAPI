@@ -8,6 +8,6 @@ import com.promineotech.ComponentScanMarker;
 public class JeepSales {
 
 	public static void main(String[] args) {
-	SpringApplication.run(JeepSales.class, args);
+		SpringApplication.run(JeepSales.class, args);
 	}
 }
